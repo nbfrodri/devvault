@@ -26,20 +26,20 @@ DevVault solves **"Snippet Scavenging"** — the time lost hunting through old r
 
 ## Features
 
-| Feature                          | Description                                                                                  |
-| -------------------------------- | -------------------------------------------------------------------------------------------- |
-| 🗂️ **Groups**                    | Organize components into named, color-coded groups with drag-and-drop reordering             |
-| 🌐 **Workspaces** (Environments) | Isolate components per project with custom dependency sets                                   |
-| 👁️ **Live Preview**              | Sandpack-powered in-app preview that renders your component exactly as it would in a browser |
-| ⭐ **Favorites**                 | Star components you use most and filter to favorites instantly                               |
-| 🔍 **Fuzzy Search**              | Fuse.js powered search across names, categories, and tags                                    |
-| 📋 **One-click Dep Copy**        | Copy the exact `npm install` command for any component's dependencies                        |
-| 🏷️ **Tags**                      | Attach custom tags for fine-grained filtering                                                |
-| ↕️ **Sort**                      | Sort any group by name (A–Z / Z–A), newest, oldest, or custom drag order                     |
-| 📦 **Templates**                 | Bootstrap new components from built-in starter templates                                     |
-| ♻️ **Copy / Move**               | Copy or move components between workspaces with full independence                            |
-| 🗑️ **Uncategorize**              | Remove any component from its group with a single click                                      |
-| 🎨 **Glassmorphic Dark UI**      | Premium dark-mode aesthetic with animated backgrounds                                        |
+| Feature                       | Description                                                                                  |
+| ----------------------------- | -------------------------------------------------------------------------------------------- |
+| **Groups**                    | Organize components into named, color-coded groups with drag-and-drop reordering             |
+| **Workspaces** (Environments) | Isolate components per project with custom dependency sets                                   |
+| **Live Preview**              | Sandpack-powered in-app preview that renders your component exactly as it would in a browser |
+| **Favorites**                 | Star components you use most and filter to favorites instantly                               |
+| **Fuzzy Search**              | Fuse.js powered search across names, categories, and tags                                    |
+| **One-click Dep Copy**        | Copy the exact `npm install` command for any component's dependencies                        |
+| **Tags**                      | Attach custom tags for fine-grained filtering                                                |
+| **Sort**                      | Sort any group by name (A–Z / Z–A), newest, oldest, or custom drag order                     |
+| **Templates**                 | Bootstrap new components from built-in starter templates                                     |
+| **Copy / Move**               | Copy or move components between workspaces with full independence                            |
+| **Uncategorize**              | Remove any component from its group with a single click                                      |
+| **Glassmorphic Dark UI**      | Premium dark-mode aesthetic with animated backgrounds                                        |
 
 ---
 
